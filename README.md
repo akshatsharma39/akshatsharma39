@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akshatsharma39
-- 👀 I’m interested in ...coding and computer science
+- 👀 I’m interested in ...Coding and Computer Science
 - 🌱 I’m currently learning ... DSA
-- 💞️ I’m looking to collaborate on ... google amazon
-- 📫 How to reach me ...through my email.id
+- 💞️ I’m looking to collaborate on ... Institutes IT Hubs
+- 📫 How to reach me ... akshattiwari039@gmail.com
 
 <!---
 akshatsharma39/akshatsharma39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
